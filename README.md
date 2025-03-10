@@ -22,7 +22,7 @@ Good luck and have fun!
 
 **Deployed**
 
-Link [https://github.com/allyasen/se_project_spots]
+Link [https://allyasen.github.io/se_project_spots/]
 
 **Link to Video**
 
